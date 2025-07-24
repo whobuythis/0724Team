@@ -1,1 +1,3 @@
-# Hello Team!!!
+# 0724 Github Practice
+
+## SeungYeon Moon
